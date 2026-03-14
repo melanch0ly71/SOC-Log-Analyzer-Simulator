@@ -1,0 +1,7 @@
+2026-03-14 22:24:55.101078 [ALERT] Possible brute force attack from 192.168.56.101 (3 failed attempts)
+2026-03-14 22:26:52.109963 [ALERT] Possible brute force attack from 192.168.56.101 (3 failed attempts)
+2026-03-14 22:32:26.242547 [ALERT] Possible brute force attack from 192.168.56.101 (3 failed attempts)
+2026-03-14 22:40:09.067335 [ALERT] Possible brute force attack from 192.168.56.101 (3 failed attempts)
+2026-03-14 22:40:09.067385 [ALERT] Possible brute force attack from 192.168.56.103 (4 failed attempts)
+2026-03-14 22:40:09.067440 [ALERT] Possible brute force attack from 192.168.56.106 (5 failed attempts)
+2026-03-14 22:40:09.067494 [ALERT] Possible brute force attack from 192.168.56.109 (3 failed attempts)
